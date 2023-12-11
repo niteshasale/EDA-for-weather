@@ -15,4 +15,4 @@
 ### find the all instances when weather is clear or visibility is above 40
 ### find the all instances when
 ### A. Weather is clear and relative humidity is grater than 50
-### B. Visibility id above 40
+### B. Visibility id above 40.
